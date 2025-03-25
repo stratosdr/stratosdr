@@ -1,10 +1,9 @@
 ## Hello there!
 
-MSc Game and Media Technology student at Utrecht university<br/>
-BSc Industrial Engineering and Management at International Hellenic University<br/>
 I create projects as a part of my studies but also my personal passion projects, that may or may not be half way done<br/>
 
-
+🎓MSc Game and Media Technology student at Utrecht university<br/>
+🎓BSc Industrial Engineering and Management at International Hellenic University<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drakoudis) 
